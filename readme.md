@@ -24,6 +24,7 @@
 <img src="assets_readme/Halaman_Utama.PNG" alt="Contoh_Gambar">
 <img src="assets_readme/Halaman_View.PNG" alt="Contoh_Gambar">
 <img src="assets_readme/Halaman_View3.PNG" alt="Contoh_Gambar">
+
 ## Alat Yang Digunakan Untuk Membuat Web :
 
 A. Hardware :
