@@ -1,4 +1,4 @@
-## Aplikasi Sangat Sederhana Pendataan Tanah
+## Aplikasi Sangat Sederhana Pendataan Akta Tanah Sederhana
 
 ## Fitur Aplikasi
 
