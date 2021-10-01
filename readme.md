@@ -7,11 +7,12 @@
 - Logout<br>
 - Halaman Utama<br><br>
   A. Data Akta Tanah<br>
-- Tambah Data (Pemilik Tanah)<br>
-- Ubah Data (Pemilik Tanah)<br>
-- Detail Data (Pemilik Tanah)<br>
-- Print Data (Pemilik Tanah)<br>
-- Cari Data (Pemilik Tanah)<br><br>
+- Tambah Data (Akta Tanah)<br>
+- Ubah Data (Akta Tanah)<br>
+- Detail Data (Akta Tanah)<br>
+- Print Data (Akta Tanah)<br>
+- Cari Data (Akta Tanah)
+  <br><br>
   B. Data Pemilik Tanah<br>
 - Tambah Data (Pemilik Tanah)<br>
 - Ubah Data (Pemilik Tanah)<br>
