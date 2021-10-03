@@ -19,6 +19,10 @@
 - Print Data (Pemilik Tanah)<br>
 - Cari Data (Pemilik Tanah)<br>
 
+## Fitur Role Atau Pembatasan Menu Untuk Setiap Users
+- Admin
+- Pembimbing
+
 ## Aplikasi Screenshot
 
 <img src="assets_readme/Halaman_Utama.PNG" alt="Contoh_Gambar">
